@@ -15,14 +15,25 @@ Practice coding every day — even if it's just a small concept or one problem �
 
 ## Folder Structure
 
-
+```
 
 coding-practice/
-├── python/        # Python syntax, small projects, language concepts
-│   └── day\_XX/    # Daily Python practice
-├── dsa/           # Data Structures & Algorithms practice
-│   └── day\_XX/    # Daily DSA problems
-└── progress.md    # Optional daily tracker
+│
+├── python/         # Python syntax, mini-projects, and core concepts
+│   ├── day\_01/
+│   ├── day\_02/
+│   └── ...         # Daily Python practice
+│
+├── dsa/            # Data Structures & Algorithms practice
+│   ├── day\_01/
+│   ├── day\_02/
+│   └── ...         # Daily DSA problems
+│
+└── progress.md     # Optional daily progress tracker (markdown checklist)
+
+```
+
+
 
 
 
